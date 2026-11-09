@@ -1,0 +1,54 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Mariana Souza Ribeiro",
+      "email": "mariana.ribeiro@exemplo.com",
+      "cpf": "12345678909",
+      "telefone": "44991234567",
+      "dataNascimento": "1994-03-12",
+      "endereco": { "cep": "87501010", "logradouro": "Avenida Paraná", "numero": "1520", "complemento": "Apto 32", "bairro": "Zona I", "cidade": "Umuarama", "uf": "PR" },
+      "senha": "senha123"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos Eduardo Lima",
+      "email": "carlos.lima@exemplo.com",
+      "cpf": "98765432100",
+      "telefone": "44998765432",
+      "dataNascimento": "1988-11-25",
+      "endereco": { "cep": "87020025", "logradouro": "Rua Santos Dumont", "numero": "85", "complemento": "", "bairro": "Centro", "cidade": "Maringá", "uf": "PR" },
+      "senha": "senha123"
+    },
+    {
+      "id": 3,
+      "nome": "Fernanda Alves Pereira",
+      "email": "fernanda.pereira@exemplo.com",
+      "cpf": "11144477735",
+      "telefone": "1132145678",
+      "dataNascimento": "2001-07-04",
+      "endereco": { "cep": "01310100", "logradouro": "Avenida Paulista", "numero": "900", "complemento": "Sala 14", "bairro": "Bela Vista", "cidade": "São Paulo", "uf": "SP" },
+      "senha": "senha123"
+    },
+    {
+      "id": 4,
+      "nome": "Rafael Henrique Costa",
+      "email": "rafael.costa@exemplo.com",
+      "cpf": "45217863919",
+      "telefone": "41997654321",
+      "dataNascimento": "1979-01-30",
+      "endereco": { "cep": "80010000", "logradouro": "Rua XV de Novembro", "numero": "410", "complemento": "", "bairro": "Centro", "cidade": "Curitiba", "uf": "PR" },
+      "senha": "senha123"
+    },
+    {
+      "id": 5,
+      "nome": "Juliana Martins Teixeira",
+      "email": "juliana.teixeira@exemplo.com",
+      "cpf": "24681357928",
+      "telefone": "21998887766",
+      "dataNascimento": "1997-09-18",
+      "endereco": { "cep": "20040020", "logradouro": "Rua da Assembleia", "numero": "10", "complemento": "Bloco B", "bairro": "Centro", "cidade": "Rio de Janeiro", "uf": "RJ" },
+      "senha": "senha123"
+    }
+  ]
+}
